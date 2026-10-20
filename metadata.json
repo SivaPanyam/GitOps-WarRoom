@@ -1,0 +1,6 @@
+{
+  "name": "GitOps WarRoom",
+  "description": "Interactive browser-based Production Git Incident Simulator with live DAG visualization, 3-way conflict resolution, reflog recovery, and state-based verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
